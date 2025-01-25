@@ -10,7 +10,7 @@
 #define WRIST_SERVO_SPEED  500
 #define SERVO_ID_0 0
 #define SERVO_ID_1 1
-#define RX_PIN 16 //TODO
+#define RX_PIN 18 //TODO
 #define TX_PIN 17 //TODO
 
 SCServo SERVO;
